@@ -1,0 +1,22 @@
+{
+  "name": "bom-https-upgrade",
+  "version": "1.0.0",
+  "description": "Providing https suport for bom.gov.au",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickypr/bom-https-upgrade.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/trickypr/bom-https-upgrade/issues"
+  },
+  "homepage": "https://github.com/trickypr/bom-https-upgrade#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
